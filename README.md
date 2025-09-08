@@ -1,4 +1,4 @@
-# NewML
+# NuML
 My own implementation of a machine learning library using only Pandas, Numpy, Matplotlib, and native python libraries. 
 Name is pending as is the application of the module. For now, I'll be exploring how to implement different machine learning libraries, but I intend to make this package different than other options available. 
 
